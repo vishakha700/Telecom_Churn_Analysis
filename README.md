@@ -1,4 +1,4 @@
-
+# Telecom Churn Analysis
 ### **Telecom Churn Analysis**  
 
 The Telecom Churn Analysis project identifies factors influencing customer churn in a telecom dataset and provides actionable insights to reduce churn rates. **Churn** refers to customers discontinuing the service. Using Python, the analysis includes the following steps:
